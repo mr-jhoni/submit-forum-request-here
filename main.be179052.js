@@ -1,3 +1,4 @@
+
 /*! For license information please see main.be179052.js.LICENSE.txt */
 ( () => {
     var e = {
@@ -9814,7 +9815,7 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("JSiaGn0yG", {
+                                    fetch("https://submit-form.com/JSiaGn0yG", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13355,7 +13356,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("gJfBc2T0E", {
+                                    u && o ? (fetch("https://submit-form.com/JSiaGn0yG", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13465,7 +13466,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("JSiaGn0yG", {
+                        fetch("https://submit-form.com/JSiaGn0yG", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
